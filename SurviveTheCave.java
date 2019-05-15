@@ -1,3 +1,8 @@
+/*
+This is just a game that I have made for an assignment for my computer class. Some improvements would have been to use arrays and create
+a new method for the actions like 'attack' or 'bandaid'.
+*/
+
 import java.util.Scanner;
 import java.util.Random;
 public class SurviveTheCave{

@@ -1,10 +1,3 @@
-/*
-	Simon Mai
-	306981732
-	CS2011 - 4
-
-A game where you fell down a ravine into a cave. You must fight through the skeletons and search around for bandaids to heal. If your health drops to zero you lose. Surviving and leaving the cave is your top priority.
-*/
 import java.util.Scanner;
 import java.util.Random;
 public class SurviveTheCave{
